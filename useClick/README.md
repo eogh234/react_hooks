@@ -1,3 +1,3 @@
-# @react_hooks/use-title
+# @react_hooks/use-click
 
-React Hook to send notifications whenever you want and you can customize the notification by adding options
+React Hook to proccess the event when users click the button or components you want to listen
