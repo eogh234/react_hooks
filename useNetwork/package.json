@@ -1,0 +1,29 @@
+{
+  "name": "@react_hooks/use-network",
+  "version": "1.0.1",
+  "description": "React Hook to be able to check user' internet status if they are online or offline",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eogh234/react_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "network",
+    "wifi",
+    "online",
+    "offline",
+    "internet"
+  ],
+  "author": "Kim Daeho <eogh234@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eogh234/react_hooks/issues"
+  },
+  "homepage": "https://github.com/eogh234/react_hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

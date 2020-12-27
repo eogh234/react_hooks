@@ -1,0 +1,26 @@
+{
+  "name": "@react_hooks/use-input",
+  "version": "1.0.1",
+  "description": "React Hook to get input data from web page. you can change data's form which you want",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eogh234/react_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "input",
+    "form"
+  ],
+  "author": "Kim Daeho <eogh234@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eogh234/react_hooks/issues"
+  },
+  "homepage": "https://github.com/eogh234/react_hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

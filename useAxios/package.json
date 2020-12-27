@@ -1,0 +1,35 @@
+{
+  "name": "@react_hooks/use-axios",
+  "version": "1.0.0",
+  "description": "React Hook to send HTTP request and get data from URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eogh234/react_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "hooks",
+    "hooks",
+    "http",
+    "api",
+    "rest",
+    "api",
+    "request",
+    "communication"
+  ],
+  "author": "Kim Daeho <eogh234@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eogh234/react_hooks/issues"
+  },
+  "homepage": "https://github.com/eogh234/react_hooks#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}

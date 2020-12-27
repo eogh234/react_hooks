@@ -1,0 +1,26 @@
+{
+  "name": "@react_hooks/use-confirm",
+  "version": "1.0.1",
+  "description": "React Hook to ask the users they really want to exit from this web site",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eogh234/react_hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "confirm",
+    "question"
+  ],
+  "author": "Kim Daeho <eogh234@naver.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eogh234/react_hooks/issues"
+  },
+  "homepage": "https://github.com/eogh234/react_hooks#readme",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
